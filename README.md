@@ -1,4 +1,4 @@
-# Face Attendance Program
+# Student Attendance Facial Recognition System
 
 This program allows you to perform face recognition-based attendance using a webcam. The program integrates with Firebase for storing images and updating attendance data in real-time. Follow the instructions below to run the program successfully.
 
