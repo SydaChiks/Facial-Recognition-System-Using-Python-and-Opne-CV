@@ -14,7 +14,7 @@ This program allows you to perform face recognition-based attendance using a web
 2. Install the required Python packages by running the following command in the terminal or command prompt:
 
    ```
-   pip install opencv-python numpy face-recognition cvzone firebase-admin
+   pip install opencv-python numpy face-recognition cvzone firebase-admin Cmake dlib
    ```
 
 3. Create a Firebase project and set up a Realtime Database and Storage bucket. Make sure to note down the database URL and storage bucket name.
