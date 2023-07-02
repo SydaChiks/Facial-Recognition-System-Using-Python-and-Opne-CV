@@ -6,6 +6,7 @@ This program allows you to perform face recognition-based attendance using a web
 
 - Python 3.x installed on your machine.
 - PyCharm IDE installed (optional but recommended).
+- c++ Development environment (visual studio/ xcode)
 
 ## Setup
 
